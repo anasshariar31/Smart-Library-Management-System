@@ -1,0 +1,21 @@
+Smart Library Management System
+├── assets/
+│   ├── css/style.css
+│   └── js/app.js
+├── config/
+│   ├── db.php
+│   └── auth.php
+├── database/
+│   └── smart_library.sql
+├── partials/
+│   ├── header.php
+│   └── footer.php
+├── index.php
+├── login.php
+├── logout.php
+├── dashboard.php
+├── scan.php
+├── students.php
+├── books.php
+├── admin_logs.php
+└── README.md
