@@ -19,21 +19,4 @@
 8. Admin dashboard
 9. Library visit logs
 
-## XAMPP Setup
-1. Install XAMPP.
-2. Start Apache and MySQL.
-3. Copy this project folder into `C:\xampp\htdocs\`.
-4. Open `http://localhost/phpmyadmin`.
-5. Create/import the database using `database/smart_library.sql`.
-6. If your MySQL username/password differs, edit `config/db.php`.
-7. Open `http://localhost/smart_library_management_system/`.
 
-## Demo Login
-Email: admin@library.com
-Password: admin123
-
-## Demo QR Values
-Student QR: `DIU-2026-001`
-Library Key QR: `LIB-KEY-001`
-
-For real deployment, use HTTPS for camera access and change the demo password.
